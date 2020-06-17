@@ -1,5 +1,5 @@
 metadata:
-  name: myapp-ingress
+  name: myappdev-ingress
   annotations:
     kubernetes.io/ingress.class: "nginx"
     nginx.ingress.kubernetes.io/rewrite-target: /
