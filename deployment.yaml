@@ -18,7 +18,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: rohith4756/myapp:v1
+      - image: rohith4756/myapp:v2
         name: myapp
         resources: {}
 status: {}
